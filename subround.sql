@@ -1,9 +1,10 @@
-INSERT INTO SubRound (Dist, ShootingRange, RoundName) VALUES
-(90, 6, 'WA90/1440'),
-(90, 5, 'WA90/1440'),
-(80, 5, 'WA80/1440'),
-(80, 6, 'WA80/1440'),
-(70, 6, 'WA70/1440'),
-(70, 5, 'WA70/1440'),
-(60, 5, 'WA60/1440'),
-(60, 6, 'WA60/1440');
+INSERT INTO SubRound (Dist, ShootingRange, RoundName, TargetFace) VALUES
+(60, 6, 'Metric II', 122),
+(50, 6, 'Metric II', 122),
+(40, 6, 'Metric II', 80),
+(30, 6, 'Metric II', 80),
+(60, 5, 'WA900', 122),
+(50, 5, 'WA900', 122),
+(40, 5, 'WA900', 122),
+(70, 12, 'WA70', 122),
+(18, 10, 'WA18', 40);

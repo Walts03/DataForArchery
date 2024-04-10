@@ -1,7 +1,6 @@
-INSERT INTO Round (Name) VALUES
-('WA90/1440'),
-('WA80/1440'),
-('WA70/1440'),
-('WA60/1440'),
-('WA50/1440'),
-('WA50/1440');
+INSERT INTO Round (Name, MaxScoreByArrow) VALUES
+('WA900', 900),
+('WA70', 720),
+('WA18', 600),
+('Metric II', 1400),
+

@@ -1,3 +1,4 @@
 INSERT INTO TargetFace (Size) VALUES
-('120'),
+('122'),
 ('80');
+('40');
