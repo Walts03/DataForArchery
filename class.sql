@@ -1,7 +1,6 @@
-CREATE TABLE `Class` (
-  Id int(11) AUTO_INCREMENT,
-  Name varchar(255) NOT NULL,
-  PRIMARY KEY (Id);
+CREATE TABLE Class (
+  Name VARCHAR(255) NOT NULL,
+  PRIMARY KEY (Name);
 ) 
 
 INSERT INTO Class (Name) VALUES 
