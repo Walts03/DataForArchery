@@ -6,7 +6,6 @@ fake = Faker()
 
 num_entries = 10
 
-# Possible divisions and genders
 divisions = ['R', 'C', 'B', 'L']
 genders = ['Male', 'Female']
 
@@ -37,6 +36,6 @@ with open('generated_sql/archers.sql', 'w') as file:
 	file.write(insert_statement)
 
 # Export archers to a JSON file for future use in another Python script
-with open('generated_data/archers_data.json', 'w') as json_file:
+with open('generated_data/archers.json', 'w') as json_file:
 	json.dump(archers, json_file)
 
