@@ -21,7 +21,7 @@ for _ in range(num_entries):
 	archers.append(archer)
 
 # Write a batched SQL insert statement
-insert_statement = "INSERT INTO Archer (Name, DOB, Gender, DefaultDivision) VALUES "
+insert_statement = "INSERT INTO Archer (Name, DOB, Gender, DefaultDivision) VALUES\n"
 values_list = []
 
 for archer in archers:
@@ -38,4 +38,3 @@ with open('generated_sql/archers.sql', 'w') as file:
 # Export archers to a JSON file for future use in another Python script
 with open('generated_data/archers.json', 'w') as json_file:
 	json.dump(archers, json_file)
-

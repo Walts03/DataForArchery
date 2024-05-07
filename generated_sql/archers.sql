@@ -1,10 +1,11 @@
-INSERT INTO Archer (Name, DOB, Gender, DefaultDivision) VALUES ('Richard Ortiz', '1992-04-04', 'Female', 'R'),
-('Thomas Young', '1981-03-05', 'Male', 'C'),
-('Vicki Pennington', '1988-08-24', 'Female', 'B'),
-('Jenna Proctor', '1975-10-21', 'Female', 'L'),
-('Stephanie Cain', '1993-03-03', 'Female', 'L'),
-('Rebecca Wilson', '1968-01-20', 'Female', 'B'),
-('Glen Gonzalez', '1989-02-03', 'Female', 'B'),
-('Judith Davis', '1967-12-29', 'Male', 'R'),
-('Steven Davis', '1984-11-10', 'Female', 'R'),
-('Katherine Schultz', '2000-12-11', 'Male', 'L');
+INSERT INTO Archer (Name, DOB, Gender, DefaultDivision) VALUES
+('Michael Long', '2000-09-07', 'Male', 'C'),
+('Jennifer Butler', '1972-09-22', 'Female', 'L'),
+('Dana Moyer', '1965-09-18', 'Female', 'C'),
+('Marc Roberts', '1977-09-23', 'Male', 'B'),
+('Paula Solis', '1983-05-02', 'Male', 'L'),
+('Darryl Mitchell', '1991-12-04', 'Female', 'R'),
+('Jose Martinez', '1970-05-31', 'Male', 'L'),
+('Sara Clark', '1987-07-15', 'Male', 'B'),
+('Michael Garcia', '1996-08-13', 'Male', 'R'),
+('Gina Davis', '1986-10-13', 'Male', 'R');
