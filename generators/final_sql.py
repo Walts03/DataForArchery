@@ -8,8 +8,8 @@ files = [
 	"default_sql/targetface.sql",
 	"default_sql/subround.sql",
 	"default_sql/competition.sql",
-	"default_sql/session.sql",
 	"generated_sql/archers.sql",
+	"generated_sql/sessions.sql",
 ]
 
 data = ""
