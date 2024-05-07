@@ -1,15 +1,3 @@
-CREATE TABLE SubRound (
-    Dist INT,
-    ShootingRange INT,
-    TargetFaces INT,
-    RoundName VARCHAR(255),
-    PRIMARY KEY (Dist, ShootingRange, TargetFaces, RoundName),
-    FOREIGN KEY (Dist) REFERENCES Distance(Dist),
-    FOREIGN KEY (ShootingRange) REFERENCES ShootingRange(EndNo),
-    FOREIGN KEY (TargetFaces) REFERENCES TargetFaces(Size),
-    FOREIGN KEY (RoundName) REFERENCES Round(Name)
-);
-
 INSERT INTO SubRound (Dist, ShootingRange, RoundName, TargetFace) VALUES
 (90, 6, 'WA90/1440', 80),
 (70, 6, 'WA90/1440', 80),
@@ -57,5 +45,3 @@ INSERT INTO SubRound (Dist, ShootingRange, RoundName, TargetFace) VALUES
 (70, 5, 'Perth', 80),
 (60, 5, 'Perth', 80),
 (50, 5, 'Perth', 80);
-
-

@@ -1,0 +1,10 @@
+INSERT INTO Archer (Name, DOB, Gender, DefaultDivision) VALUES ('Richard Ortiz', '1992-04-04', 'Female', 'R'),
+('Thomas Young', '1981-03-05', 'Male', 'C'),
+('Vicki Pennington', '1988-08-24', 'Female', 'B'),
+('Jenna Proctor', '1975-10-21', 'Female', 'L'),
+('Stephanie Cain', '1993-03-03', 'Female', 'L'),
+('Rebecca Wilson', '1968-01-20', 'Female', 'B'),
+('Glen Gonzalez', '1989-02-03', 'Female', 'B'),
+('Judith Davis', '1967-12-29', 'Male', 'R'),
+('Steven Davis', '1984-11-10', 'Female', 'R'),
+('Katherine Schultz', '2000-12-11', 'Male', 'L');

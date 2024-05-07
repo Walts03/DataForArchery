@@ -1,8 +1,3 @@
-CREATE TABLE Class (
-  Name VARCHAR(255) NOT NULL,
-  PRIMARY KEY (Name);
-) 
-
 INSERT INTO Class (Name) VALUES 
 ('Female Open'),
 ('Male Open'),
