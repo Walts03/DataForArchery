@@ -4,7 +4,7 @@ import json
 
 fake = Faker()
 
-num_entries = 10
+num_entries = 50
 
 divisions = ['R', 'C', 'B', 'L']
 genders = ['Male', 'Female']
