@@ -394,7 +394,7 @@ insert_statement = ""
 # 
 # print(shooting_session)
 
-shooting_session = 637
+shooting_session = 601
 
 competition_date = datetime.strptime("2024-03-10", '%Y-%m-%d')
 duration = 10
