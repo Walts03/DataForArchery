@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "AA40/1440",
+    "Equivalent": null,
+    "MaxScoreByArrow": "10"
+  },
+  {
+    "Name": "AA50/1440",
+    "Equivalent": null,
+    "MaxScoreByArrow": "10"
+  },
+  {
+    "Name": "Adelaide",
+    "Equivalent": null,
+    "MaxScoreByArrow": "10"
+  },
+  {
+    "Name": "Brisbane",
+    "Equivalent": null,
+    "MaxScoreByArrow": "10"
+  },
+  {
+    "Name": "Hobart",
+    "Equivalent": null,
+    "MaxScoreByArrow": "10"
+  },
+  {
+    "Name": "Long Brisbane",
+    "Equivalent": null,
+    "MaxScoreByArrow": "10"
+  },
+  {
+    "Name": "Long Sydney",
+    "Equivalent": null,
+    "MaxScoreByArrow": "10"
+  },
+  {
+    "Name": "Perth",
+    "Equivalent": null,
+    "MaxScoreByArrow": "10"
+  },
+  {
+    "Name": "Sydney",
+    "Equivalent": null,
+    "MaxScoreByArrow": "10"
+  },
+  {
+    "Name": "WA60/1440",
+    "Equivalent": null,
+    "MaxScoreByArrow": "10"
+  },
+  {
+    "Name": "WA60/1440 - Children",
+    "Equivalent": "WA60/1440",
+    "MaxScoreByArrow": "10"
+  },
+  {
+    "Name": "WA70/1440",
+    "Equivalent": null,
+    "MaxScoreByArrow": "10"
+  },
+  {
+    "Name": "WA90/1440",
+    "Equivalent": null,
+    "MaxScoreByArrow": "10"
+  }
+]

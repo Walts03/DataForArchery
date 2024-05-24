@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS Arrow;
+DROP TABLE IF EXISTS End;
 DROP TABLE IF EXISTS ShootingSession;
 DROP TABLE IF EXISTS Archer;
 DROP TABLE IF EXISTS Competition;
@@ -66,7 +66,7 @@ CREATE TABLE SubRound (
 CREATE TABLE Competition (
 	Id INT	NOT NULL AUTO_INCREMENT,
 	IsChampionship BOOLEAN,
-	Name VARCHAR(255),
+	Name VARCHAR(255) UNIQUE,
 	Duration INT,
 	CompetitionDate TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 	PRIMARY KEY (Id)
@@ -87,12 +87,17 @@ CREATE TABLE ShootingSession (
 	FOREIGN KEY (RoundName) REFERENCES Round(Name)
 );
 
-CREATE TABLE Arrow (
+CREATE TABLE End (
 	Id INT NOT NULL AUTO_INCREMENT,
+	ShootingSessionId INT,
 	Dist INT,
 	ShootingRange INT,
-	ShootingSessionId INT,
-	Score INT,
+	Arrow1 INT,
+	Arrow2 INT,
+	Arrow3 INT,
+	Arrow4 INT,
+	Arrow5 INT,
+	Arrow6 INT,
 	ShootDate TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 	PRIMARY KEY (Id),
 	FOREIGN KEY (Dist) REFERENCES Distance(Dist),

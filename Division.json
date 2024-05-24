@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Recurve/Compound Barebow",
+    "ACR": "B"
+  },
+  {
+    "Name": "Compound",
+    "ACR": "C"
+  },
+  {
+    "Name": "Longbow",
+    "ACR": "L"
+  },
+  {
+    "Name": "Recurve",
+    "ACR": "R"
+  }
+]

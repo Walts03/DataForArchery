@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "1",
+    "IsChampionship": "1",
+    "Name": "World Archery 2190",
+    "Duration": null,
+    "CompetitionDate": "2024-04-15 00:00:00"
+  },
+  {
+    "Id": "2",
+    "IsChampionship": "1",
+    "Name": "Archery Australia Championship",
+    "Duration": null,
+    "CompetitionDate": "2024-06-20 00:00:00"
+  },
+  {
+    "Id": "3",
+    "IsChampionship": "0",
+    "Name": "Staging",
+    "Duration": null,
+    "CompetitionDate": "2020-01-01 00:00:00"
+  }
+]

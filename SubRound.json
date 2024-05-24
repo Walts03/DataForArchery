@@ -1,0 +1,290 @@
+[
+  {
+    "Dist": "20",
+    "ShootingRange": "6",
+    "TargetFace": "120",
+    "RoundName": "AA40/1440"
+  },
+  {
+    "Dist": "20",
+    "ShootingRange": "6",
+    "TargetFace": "120",
+    "RoundName": "AA50/1440"
+  },
+  {
+    "Dist": "30",
+    "ShootingRange": "3",
+    "TargetFace": "120",
+    "RoundName": "WA60/1440 - Children"
+  },
+  {
+    "Dist": "30",
+    "ShootingRange": "5",
+    "TargetFace": "120",
+    "RoundName": "Adelaide"
+  },
+  {
+    "Dist": "30",
+    "ShootingRange": "6",
+    "TargetFace": "80",
+    "RoundName": "AA40/1440"
+  },
+  {
+    "Dist": "30",
+    "ShootingRange": "6",
+    "TargetFace": "120",
+    "RoundName": "AA40/1440"
+  },
+  {
+    "Dist": "30",
+    "ShootingRange": "6",
+    "TargetFace": "120",
+    "RoundName": "AA50/1440"
+  },
+  {
+    "Dist": "30",
+    "ShootingRange": "6",
+    "TargetFace": "120",
+    "RoundName": "WA60/1440"
+  },
+  {
+    "Dist": "30",
+    "ShootingRange": "6",
+    "TargetFace": "120",
+    "RoundName": "WA70/1440"
+  },
+  {
+    "Dist": "30",
+    "ShootingRange": "6",
+    "TargetFace": "120",
+    "RoundName": "WA90/1440"
+  },
+  {
+    "Dist": "40",
+    "ShootingRange": "3",
+    "TargetFace": "120",
+    "RoundName": "WA60/1440 - Children"
+  },
+  {
+    "Dist": "40",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Sydney"
+  },
+  {
+    "Dist": "40",
+    "ShootingRange": "5",
+    "TargetFace": "120",
+    "RoundName": "Adelaide"
+  },
+  {
+    "Dist": "40",
+    "ShootingRange": "5",
+    "TargetFace": "120",
+    "RoundName": "Brisbane"
+  },
+  {
+    "Dist": "40",
+    "ShootingRange": "6",
+    "TargetFace": "80",
+    "RoundName": "AA40/1440"
+  },
+  {
+    "Dist": "40",
+    "ShootingRange": "6",
+    "TargetFace": "80",
+    "RoundName": "AA50/1440"
+  },
+  {
+    "Dist": "40",
+    "ShootingRange": "6",
+    "TargetFace": "120",
+    "RoundName": "WA60/1440"
+  },
+  {
+    "Dist": "50",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Adelaide"
+  },
+  {
+    "Dist": "50",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Hobart"
+  },
+  {
+    "Dist": "50",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Long Sydney"
+  },
+  {
+    "Dist": "50",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Perth"
+  },
+  {
+    "Dist": "50",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Sydney"
+  },
+  {
+    "Dist": "50",
+    "ShootingRange": "5",
+    "TargetFace": "120",
+    "RoundName": "Brisbane"
+  },
+  {
+    "Dist": "50",
+    "ShootingRange": "5",
+    "TargetFace": "120",
+    "RoundName": "Long Brisbane"
+  },
+  {
+    "Dist": "50",
+    "ShootingRange": "6",
+    "TargetFace": "80",
+    "RoundName": "AA50/1440"
+  },
+  {
+    "Dist": "50",
+    "ShootingRange": "6",
+    "TargetFace": "80",
+    "RoundName": "WA60/1440"
+  },
+  {
+    "Dist": "50",
+    "ShootingRange": "6",
+    "TargetFace": "120",
+    "RoundName": "WA70/1440"
+  },
+  {
+    "Dist": "50",
+    "ShootingRange": "6",
+    "TargetFace": "120",
+    "RoundName": "WA90/1440"
+  },
+  {
+    "Dist": "60",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Adelaide"
+  },
+  {
+    "Dist": "60",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Brisbane"
+  },
+  {
+    "Dist": "60",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Long Sydney"
+  },
+  {
+    "Dist": "60",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Perth"
+  },
+  {
+    "Dist": "60",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Sydney"
+  },
+  {
+    "Dist": "60",
+    "ShootingRange": "5",
+    "TargetFace": "120",
+    "RoundName": "Long Brisbane"
+  },
+  {
+    "Dist": "60",
+    "ShootingRange": "6",
+    "TargetFace": "80",
+    "RoundName": "WA60/1440"
+  },
+  {
+    "Dist": "60",
+    "ShootingRange": "6",
+    "TargetFace": "80",
+    "RoundName": "WA70/1440"
+  },
+  {
+    "Dist": "70",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Brisbane"
+  },
+  {
+    "Dist": "70",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Hobart"
+  },
+  {
+    "Dist": "70",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Long Brisbane"
+  },
+  {
+    "Dist": "70",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Long Sydney"
+  },
+  {
+    "Dist": "70",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Perth"
+  },
+  {
+    "Dist": "70",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Sydney"
+  },
+  {
+    "Dist": "70",
+    "ShootingRange": "6",
+    "TargetFace": "80",
+    "RoundName": "WA70/1440"
+  },
+  {
+    "Dist": "70",
+    "ShootingRange": "6",
+    "TargetFace": "80",
+    "RoundName": "WA90/1440"
+  },
+  {
+    "Dist": "90",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Hobart"
+  },
+  {
+    "Dist": "90",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Long Brisbane"
+  },
+  {
+    "Dist": "90",
+    "ShootingRange": "5",
+    "TargetFace": "80",
+    "RoundName": "Long Sydney"
+  },
+  {
+    "Dist": "90",
+    "ShootingRange": "6",
+    "TargetFace": "80",
+    "RoundName": "WA90/1440"
+  }
+]

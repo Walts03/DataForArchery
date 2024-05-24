@@ -12,3 +12,6 @@ INSERT INTO Round (Name, MaxScoreByArrow) VALUES
 ('Short Adelaide', 10),
 ('Hobart', 10),
 ('Perth', 10);
+
+INSERT INTO Round (Name, MaxScoreByArrow, Equivalent) VALUES
+('WA60/1440 - Children', 10, 'WA60/1440');

@@ -1,0 +1,5402 @@
+[
+  {
+    "Id": "1",
+    "ArcherId": "155",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "2",
+    "ArcherId": "125",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "3",
+    "ArcherId": "205",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "4",
+    "ArcherId": "21",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "5",
+    "ArcherId": "115",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "6",
+    "ArcherId": "2",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "7",
+    "ArcherId": "99",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "8",
+    "ArcherId": "141",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "9",
+    "ArcherId": "244",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "10",
+    "ArcherId": "112",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "11",
+    "ArcherId": "52",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "12",
+    "ArcherId": "211",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "13",
+    "ArcherId": "12",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "14",
+    "ArcherId": "309",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "15",
+    "ArcherId": "439",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "16",
+    "ArcherId": "336",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "17",
+    "ArcherId": "93",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "18",
+    "ArcherId": "129",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "19",
+    "ArcherId": "122",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "20",
+    "ArcherId": "36",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "21",
+    "ArcherId": "472",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "22",
+    "ArcherId": "133",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "23",
+    "ArcherId": "498",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "24",
+    "ArcherId": "212",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "25",
+    "ArcherId": "437",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "26",
+    "ArcherId": "246",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "27",
+    "ArcherId": "260",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "28",
+    "ArcherId": "8",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "29",
+    "ArcherId": "468",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "30",
+    "ArcherId": "492",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "31",
+    "ArcherId": "491",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "32",
+    "ArcherId": "59",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "33",
+    "ArcherId": "471",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "34",
+    "ArcherId": "18",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "35",
+    "ArcherId": "249",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "36",
+    "ArcherId": "258",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "37",
+    "ArcherId": "299",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "38",
+    "ArcherId": "189",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "39",
+    "ArcherId": "29",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "40",
+    "ArcherId": "245",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "41",
+    "ArcherId": "114",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "42",
+    "ArcherId": "318",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "43",
+    "ArcherId": "369",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "44",
+    "ArcherId": "257",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "45",
+    "ArcherId": "148",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "46",
+    "ArcherId": "79",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "47",
+    "ArcherId": "49",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "48",
+    "ArcherId": "210",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "49",
+    "ArcherId": "161",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "50",
+    "ArcherId": "380",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "51",
+    "ArcherId": "393",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "52",
+    "ArcherId": "448",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "53",
+    "ArcherId": "350",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "54",
+    "ArcherId": "79",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "55",
+    "ArcherId": "409",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "56",
+    "ArcherId": "135",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "57",
+    "ArcherId": "417",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "58",
+    "ArcherId": "18",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "59",
+    "ArcherId": "429",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "60",
+    "ArcherId": "335",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "61",
+    "ArcherId": "182",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "62",
+    "ArcherId": "466",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "63",
+    "ArcherId": "176",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "64",
+    "ArcherId": "156",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "65",
+    "ArcherId": "481",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "66",
+    "ArcherId": "368",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "67",
+    "ArcherId": "215",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "68",
+    "ArcherId": "207",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "69",
+    "ArcherId": "325",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "70",
+    "ArcherId": "167",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "71",
+    "ArcherId": "289",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "72",
+    "ArcherId": "497",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "73",
+    "ArcherId": "225",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "74",
+    "ArcherId": "272",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "75",
+    "ArcherId": "490",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "76",
+    "ArcherId": "91",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "77",
+    "ArcherId": "495",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "78",
+    "ArcherId": "178",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "79",
+    "ArcherId": "25",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "80",
+    "ArcherId": "436",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "81",
+    "ArcherId": "381",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "82",
+    "ArcherId": "245",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "83",
+    "ArcherId": "485",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "84",
+    "ArcherId": "192",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "85",
+    "ArcherId": "154",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "86",
+    "ArcherId": "424",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "87",
+    "ArcherId": "138",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "88",
+    "ArcherId": "437",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "89",
+    "ArcherId": "244",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "90",
+    "ArcherId": "480",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "91",
+    "ArcherId": "292",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "60+ Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "92",
+    "ArcherId": "123",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "93",
+    "ArcherId": "321",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "94",
+    "ArcherId": "297",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "95",
+    "ArcherId": "175",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "96",
+    "ArcherId": "422",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "97",
+    "ArcherId": "317",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "98",
+    "ArcherId": "340",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "99",
+    "ArcherId": "391",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "100",
+    "ArcherId": "68",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "101",
+    "ArcherId": "484",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "102",
+    "ArcherId": "202",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "103",
+    "ArcherId": "165",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "104",
+    "ArcherId": "418",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "105",
+    "ArcherId": "72",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "106",
+    "ArcherId": "480",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "107",
+    "ArcherId": "362",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "108",
+    "ArcherId": "400",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "109",
+    "ArcherId": "357",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "110",
+    "ArcherId": "341",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "111",
+    "ArcherId": "12",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "112",
+    "ArcherId": "121",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "113",
+    "ArcherId": "361",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "114",
+    "ArcherId": "448",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "115",
+    "ArcherId": "395",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "116",
+    "ArcherId": "267",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "117",
+    "ArcherId": "379",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "118",
+    "ArcherId": "89",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "119",
+    "ArcherId": "40",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "120",
+    "ArcherId": "1",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "121",
+    "ArcherId": "258",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "122",
+    "ArcherId": "398",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "123",
+    "ArcherId": "447",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "124",
+    "ArcherId": "479",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "125",
+    "ArcherId": "462",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "126",
+    "ArcherId": "170",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "127",
+    "ArcherId": "200",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "128",
+    "ArcherId": "39",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "129",
+    "ArcherId": "495",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "130",
+    "ArcherId": "50",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "131",
+    "ArcherId": "399",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "132",
+    "ArcherId": "272",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "133",
+    "ArcherId": "16",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "134",
+    "ArcherId": "400",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "135",
+    "ArcherId": "29",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "136",
+    "ArcherId": "271",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "137",
+    "ArcherId": "12",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "138",
+    "ArcherId": "196",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "139",
+    "ArcherId": "176",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "140",
+    "ArcherId": "148",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "141",
+    "ArcherId": "49",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "142",
+    "ArcherId": "14",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "143",
+    "ArcherId": "124",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "144",
+    "ArcherId": "492",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "145",
+    "ArcherId": "463",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "146",
+    "ArcherId": "154",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "147",
+    "ArcherId": "198",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "148",
+    "ArcherId": "165",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "149",
+    "ArcherId": "340",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "150",
+    "ArcherId": "398",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "151",
+    "ArcherId": "5",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "152",
+    "ArcherId": "288",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "153",
+    "ArcherId": "255",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "154",
+    "ArcherId": "480",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "155",
+    "ArcherId": "425",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "156",
+    "ArcherId": "231",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "157",
+    "ArcherId": "371",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "158",
+    "ArcherId": "272",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "159",
+    "ArcherId": "377",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "160",
+    "ArcherId": "468",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "161",
+    "ArcherId": "414",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "162",
+    "ArcherId": "338",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "163",
+    "ArcherId": "450",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "164",
+    "ArcherId": "27",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "165",
+    "ArcherId": "462",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "166",
+    "ArcherId": "347",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "167",
+    "ArcherId": "95",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "168",
+    "ArcherId": "398",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "169",
+    "ArcherId": "56",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "170",
+    "ArcherId": "433",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "171",
+    "ArcherId": "67",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "172",
+    "ArcherId": "11",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "173",
+    "ArcherId": "379",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "174",
+    "ArcherId": "388",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "175",
+    "ArcherId": "209",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "176",
+    "ArcherId": "252",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "177",
+    "ArcherId": "98",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "178",
+    "ArcherId": "428",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "179",
+    "ArcherId": "148",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "180",
+    "ArcherId": "111",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "181",
+    "ArcherId": "141",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "182",
+    "ArcherId": "356",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "183",
+    "ArcherId": "193",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "184",
+    "ArcherId": "275",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "185",
+    "ArcherId": "68",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "186",
+    "ArcherId": "436",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "187",
+    "ArcherId": "89",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "188",
+    "ArcherId": "75",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "189",
+    "ArcherId": "409",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "190",
+    "ArcherId": "210",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "191",
+    "ArcherId": "314",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "192",
+    "ArcherId": "251",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "193",
+    "ArcherId": "104",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "194",
+    "ArcherId": "52",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "195",
+    "ArcherId": "219",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "196",
+    "ArcherId": "247",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "197",
+    "ArcherId": "446",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "198",
+    "ArcherId": "405",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "199",
+    "ArcherId": "340",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "200",
+    "ArcherId": "187",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "201",
+    "ArcherId": "172",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "202",
+    "ArcherId": "68",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "203",
+    "ArcherId": "189",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "204",
+    "ArcherId": "163",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "205",
+    "ArcherId": "212",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "206",
+    "ArcherId": "438",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "207",
+    "ArcherId": "338",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "208",
+    "ArcherId": "495",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "209",
+    "ArcherId": "456",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "210",
+    "ArcherId": "98",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "211",
+    "ArcherId": "485",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "212",
+    "ArcherId": "363",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "213",
+    "ArcherId": "301",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "214",
+    "ArcherId": "111",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "215",
+    "ArcherId": "306",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "216",
+    "ArcherId": "482",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "217",
+    "ArcherId": "293",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "218",
+    "ArcherId": "217",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "219",
+    "ArcherId": "359",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "220",
+    "ArcherId": "409",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "221",
+    "ArcherId": "40",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "222",
+    "ArcherId": "121",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "223",
+    "ArcherId": "206",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "224",
+    "ArcherId": "252",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "225",
+    "ArcherId": "389",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 16:00:00"
+  },
+  {
+    "Id": "226",
+    "ArcherId": "337",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "227",
+    "ArcherId": "307",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "228",
+    "ArcherId": "322",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "229",
+    "ArcherId": "79",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "230",
+    "ArcherId": "340",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "231",
+    "ArcherId": "454",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "232",
+    "ArcherId": "344",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "233",
+    "ArcherId": "70",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "234",
+    "ArcherId": "498",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "235",
+    "ArcherId": "146",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "236",
+    "ArcherId": "54",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "237",
+    "ArcherId": "131",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "238",
+    "ArcherId": "8",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "239",
+    "ArcherId": "453",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "240",
+    "ArcherId": "125",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "241",
+    "ArcherId": "5",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "242",
+    "ArcherId": "142",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "243",
+    "ArcherId": "489",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "244",
+    "ArcherId": "482",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "245",
+    "ArcherId": "180",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "246",
+    "ArcherId": "73",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "247",
+    "ArcherId": "480",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "248",
+    "ArcherId": "228",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "249",
+    "ArcherId": "227",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "250",
+    "ArcherId": "383",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "251",
+    "ArcherId": "478",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "252",
+    "ArcherId": "94",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "253",
+    "ArcherId": "188",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "254",
+    "ArcherId": "240",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "255",
+    "ArcherId": "182",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "256",
+    "ArcherId": "164",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "257",
+    "ArcherId": "497",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "258",
+    "ArcherId": "380",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "259",
+    "ArcherId": "75",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "260",
+    "ArcherId": "292",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "60+ Female",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "261",
+    "ArcherId": "55",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "262",
+    "ArcherId": "222",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "263",
+    "ArcherId": "466",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "264",
+    "ArcherId": "234",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "265",
+    "ArcherId": "169",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "266",
+    "ArcherId": "103",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "267",
+    "ArcherId": "88",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "268",
+    "ArcherId": "401",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "269",
+    "ArcherId": "255",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "270",
+    "ArcherId": "459",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "271",
+    "ArcherId": "284",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "272",
+    "ArcherId": "135",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "273",
+    "ArcherId": "348",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "274",
+    "ArcherId": "399",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "275",
+    "ArcherId": "68",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "276",
+    "ArcherId": "200",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "277",
+    "ArcherId": "268",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "278",
+    "ArcherId": "465",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "279",
+    "ArcherId": "167",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "280",
+    "ArcherId": "430",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "281",
+    "ArcherId": "446",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "282",
+    "ArcherId": "47",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "283",
+    "ArcherId": "262",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "284",
+    "ArcherId": "302",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "285",
+    "ArcherId": "14",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "286",
+    "ArcherId": "292",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "60+ Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "287",
+    "ArcherId": "138",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "288",
+    "ArcherId": "248",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "289",
+    "ArcherId": "86",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "290",
+    "ArcherId": "103",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "291",
+    "ArcherId": "306",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "292",
+    "ArcherId": "270",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "293",
+    "ArcherId": "471",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "294",
+    "ArcherId": "115",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "295",
+    "ArcherId": "148",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "296",
+    "ArcherId": "485",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "297",
+    "ArcherId": "491",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "298",
+    "ArcherId": "420",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "299",
+    "ArcherId": "372",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "300",
+    "ArcherId": "145",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 13:00:00"
+  },
+  {
+    "Id": "301",
+    "ArcherId": "204",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "302",
+    "ArcherId": "297",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "303",
+    "ArcherId": "419",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "304",
+    "ArcherId": "375",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "305",
+    "ArcherId": "291",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "306",
+    "ArcherId": "3",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "307",
+    "ArcherId": "195",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "308",
+    "ArcherId": "280",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "309",
+    "ArcherId": "164",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "310",
+    "ArcherId": "303",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "311",
+    "ArcherId": "410",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "312",
+    "ArcherId": "330",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "313",
+    "ArcherId": "359",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "314",
+    "ArcherId": "96",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "315",
+    "ArcherId": "269",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "316",
+    "ArcherId": "480",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "317",
+    "ArcherId": "147",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "318",
+    "ArcherId": "259",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "319",
+    "ArcherId": "21",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "320",
+    "ArcherId": "70",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "321",
+    "ArcherId": "265",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "322",
+    "ArcherId": "487",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "323",
+    "ArcherId": "32",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "324",
+    "ArcherId": "337",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "325",
+    "ArcherId": "129",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-04-15 07:00:00"
+  },
+  {
+    "Id": "326",
+    "ArcherId": "149",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "327",
+    "ArcherId": "463",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "328",
+    "ArcherId": "230",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "329",
+    "ArcherId": "270",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "330",
+    "ArcherId": "365",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "331",
+    "ArcherId": "41",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "332",
+    "ArcherId": "248",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "333",
+    "ArcherId": "118",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "334",
+    "ArcherId": "456",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "335",
+    "ArcherId": "409",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "336",
+    "ArcherId": "107",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "337",
+    "ArcherId": "489",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "338",
+    "ArcherId": "125",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "339",
+    "ArcherId": "410",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "340",
+    "ArcherId": "437",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "341",
+    "ArcherId": "420",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "342",
+    "ArcherId": "307",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "343",
+    "ArcherId": "151",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "344",
+    "ArcherId": "83",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "B",
+    "Class": "50+ Male",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "345",
+    "ArcherId": "381",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "346",
+    "ArcherId": "349",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "B",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "347",
+    "ArcherId": "392",
+    "CompetitionId": "1",
+    "RoundName": "WA90/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "348",
+    "ArcherId": "127",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "50+ Female",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "349",
+    "ArcherId": "39",
+    "CompetitionId": "1",
+    "RoundName": "WA70/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "350",
+    "ArcherId": "299",
+    "CompetitionId": "1",
+    "RoundName": "WA60/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-04-15 10:00:00"
+  },
+  {
+    "Id": "351",
+    "ArcherId": "196",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "352",
+    "ArcherId": "78",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "353",
+    "ArcherId": "460",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "354",
+    "ArcherId": "158",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "355",
+    "ArcherId": "127",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "C",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "356",
+    "ArcherId": "48",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "L",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "357",
+    "ArcherId": "476",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "358",
+    "ArcherId": "485",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "359",
+    "ArcherId": "93",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "360",
+    "ArcherId": "266",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "C",
+    "Class": "60+ Female",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "361",
+    "ArcherId": "76",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "362",
+    "ArcherId": "37",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "363",
+    "ArcherId": "7",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "364",
+    "ArcherId": "13",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "365",
+    "ArcherId": "474",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "366",
+    "ArcherId": "10",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "367",
+    "ArcherId": "442",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "368",
+    "ArcherId": "61",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "369",
+    "ArcherId": "95",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "370",
+    "ArcherId": "129",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "L",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "371",
+    "ArcherId": "222",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "372",
+    "ArcherId": "50",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "373",
+    "ArcherId": "113",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "C",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "374",
+    "ArcherId": "216",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "375",
+    "ArcherId": "227",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "376",
+    "ArcherId": "360",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "377",
+    "ArcherId": "336",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "378",
+    "ArcherId": "311",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "B",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "379",
+    "ArcherId": "94",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "380",
+    "ArcherId": "261",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "C",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "381",
+    "ArcherId": "225",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "B",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "382",
+    "ArcherId": "151",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "383",
+    "ArcherId": "436",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "384",
+    "ArcherId": "11",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "385",
+    "ArcherId": "320",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "386",
+    "ArcherId": "112",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "B",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "387",
+    "ArcherId": "227",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "388",
+    "ArcherId": "297",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "389",
+    "ArcherId": "483",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "390",
+    "ArcherId": "44",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "C",
+    "Class": "60+ Female",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "391",
+    "ArcherId": "417",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "392",
+    "ArcherId": "471",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "393",
+    "ArcherId": "143",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "394",
+    "ArcherId": "274",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "C",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "395",
+    "ArcherId": "40",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "396",
+    "ArcherId": "61",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "397",
+    "ArcherId": "48",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "L",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "398",
+    "ArcherId": "178",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "399",
+    "ArcherId": "53",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "400",
+    "ArcherId": "92",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "401",
+    "ArcherId": "263",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "B",
+    "Class": "60+ Female",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "402",
+    "ArcherId": "240",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "403",
+    "ArcherId": "51",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "404",
+    "ArcherId": "152",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "405",
+    "ArcherId": "278",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "406",
+    "ArcherId": "26",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "407",
+    "ArcherId": "46",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "L",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "408",
+    "ArcherId": "419",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "409",
+    "ArcherId": "176",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "410",
+    "ArcherId": "170",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "B",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "411",
+    "ArcherId": "192",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "L",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "412",
+    "ArcherId": "422",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "413",
+    "ArcherId": "33",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "414",
+    "ArcherId": "83",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "B",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "415",
+    "ArcherId": "210",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "416",
+    "ArcherId": "307",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "B",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "417",
+    "ArcherId": "344",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "418",
+    "ArcherId": "402",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "419",
+    "ArcherId": "347",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "420",
+    "ArcherId": "298",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "421",
+    "ArcherId": "238",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "422",
+    "ArcherId": "59",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "423",
+    "ArcherId": "380",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "424",
+    "ArcherId": "138",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "425",
+    "ArcherId": "446",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "426",
+    "ArcherId": "66",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "427",
+    "ArcherId": "283",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "428",
+    "ArcherId": "427",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "429",
+    "ArcherId": "14",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "430",
+    "ArcherId": "347",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "431",
+    "ArcherId": "52",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "432",
+    "ArcherId": "437",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "433",
+    "ArcherId": "44",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "C",
+    "Class": "60+ Female",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "434",
+    "ArcherId": "280",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "B",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "435",
+    "ArcherId": "129",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "L",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "436",
+    "ArcherId": "331",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "437",
+    "ArcherId": "406",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "438",
+    "ArcherId": "87",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "B",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "439",
+    "ArcherId": "18",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "440",
+    "ArcherId": "362",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "441",
+    "ArcherId": "81",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "442",
+    "ArcherId": "443",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "443",
+    "ArcherId": "345",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "L",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "444",
+    "ArcherId": "486",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "445",
+    "ArcherId": "339",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "446",
+    "ArcherId": "469",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "447",
+    "ArcherId": "474",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "448",
+    "ArcherId": "452",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "449",
+    "ArcherId": "434",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "450",
+    "ArcherId": "89",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "R",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "451",
+    "ArcherId": "25",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "452",
+    "ArcherId": "335",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "453",
+    "ArcherId": "208",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "454",
+    "ArcherId": "319",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "C",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "455",
+    "ArcherId": "47",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "456",
+    "ArcherId": "442",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "457",
+    "ArcherId": "260",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "458",
+    "ArcherId": "256",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "459",
+    "ArcherId": "324",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "460",
+    "ArcherId": "157",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "L",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "461",
+    "ArcherId": "51",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "462",
+    "ArcherId": "6",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "B",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "463",
+    "ArcherId": "147",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "464",
+    "ArcherId": "115",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "465",
+    "ArcherId": "134",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "C",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "466",
+    "ArcherId": "387",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "467",
+    "ArcherId": "320",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "468",
+    "ArcherId": "160",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "469",
+    "ArcherId": "200",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "470",
+    "ArcherId": "170",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "B",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "471",
+    "ArcherId": "347",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "472",
+    "ArcherId": "470",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "473",
+    "ArcherId": "289",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "474",
+    "ArcherId": "372",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "475",
+    "ArcherId": "199",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 07:00:00"
+  },
+  {
+    "Id": "476",
+    "ArcherId": "193",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "477",
+    "ArcherId": "354",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "478",
+    "ArcherId": "463",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "479",
+    "ArcherId": "366",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "B",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "480",
+    "ArcherId": "106",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "481",
+    "ArcherId": "458",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "482",
+    "ArcherId": "407",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "483",
+    "ArcherId": "16",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "484",
+    "ArcherId": "358",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "485",
+    "ArcherId": "101",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "L",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "486",
+    "ArcherId": "197",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "487",
+    "ArcherId": "271",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "B",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "488",
+    "ArcherId": "35",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "489",
+    "ArcherId": "25",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "490",
+    "ArcherId": "313",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "B",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "491",
+    "ArcherId": "142",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "492",
+    "ArcherId": "471",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "493",
+    "ArcherId": "104",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "494",
+    "ArcherId": "403",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "495",
+    "ArcherId": "75",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "496",
+    "ArcherId": "364",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "497",
+    "ArcherId": "209",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "498",
+    "ArcherId": "473",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "499",
+    "ArcherId": "298",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "500",
+    "ArcherId": "447",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "501",
+    "ArcherId": "277",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "502",
+    "ArcherId": "162",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "503",
+    "ArcherId": "252",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "504",
+    "ArcherId": "19",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "505",
+    "ArcherId": "219",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "506",
+    "ArcherId": "43",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "507",
+    "ArcherId": "305",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "508",
+    "ArcherId": "230",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "509",
+    "ArcherId": "27",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "510",
+    "ArcherId": "244",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "511",
+    "ArcherId": "216",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "512",
+    "ArcherId": "460",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "513",
+    "ArcherId": "254",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "L",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "514",
+    "ArcherId": "25",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "515",
+    "ArcherId": "86",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "516",
+    "ArcherId": "172",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "517",
+    "ArcherId": "310",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "C",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "518",
+    "ArcherId": "145",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "519",
+    "ArcherId": "326",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "520",
+    "ArcherId": "469",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "521",
+    "ArcherId": "45",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "522",
+    "ArcherId": "449",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "523",
+    "ArcherId": "391",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "524",
+    "ArcherId": "87",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "B",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "525",
+    "ArcherId": "83",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "B",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "526",
+    "ArcherId": "165",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "L",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "527",
+    "ArcherId": "1",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "528",
+    "ArcherId": "20",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "529",
+    "ArcherId": "179",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "530",
+    "ArcherId": "45",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "531",
+    "ArcherId": "446",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "532",
+    "ArcherId": "110",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "533",
+    "ArcherId": "315",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "534",
+    "ArcherId": "400",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "B",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "535",
+    "ArcherId": "395",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "536",
+    "ArcherId": "332",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "537",
+    "ArcherId": "257",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "C",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "538",
+    "ArcherId": "411",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "539",
+    "ArcherId": "356",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "540",
+    "ArcherId": "287",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "541",
+    "ArcherId": "324",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "542",
+    "ArcherId": "21",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "543",
+    "ArcherId": "308",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "544",
+    "ArcherId": "299",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "545",
+    "ArcherId": "41",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "546",
+    "ArcherId": "193",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "L",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "547",
+    "ArcherId": "17",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "548",
+    "ArcherId": "53",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "549",
+    "ArcherId": "444",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "550",
+    "ArcherId": "29",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 13:00:00"
+  },
+  {
+    "Id": "551",
+    "ArcherId": "296",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "L",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "552",
+    "ArcherId": "403",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "553",
+    "ArcherId": "5",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "554",
+    "ArcherId": "164",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "555",
+    "ArcherId": "239",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "556",
+    "ArcherId": "483",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "557",
+    "ArcherId": "166",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "558",
+    "ArcherId": "456",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "B",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "559",
+    "ArcherId": "433",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "560",
+    "ArcherId": "328",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "561",
+    "ArcherId": "211",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "562",
+    "ArcherId": "187",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "R",
+    "Class": "Under 21 Male",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "563",
+    "ArcherId": "115",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "564",
+    "ArcherId": "291",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "565",
+    "ArcherId": "69",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "R",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "566",
+    "ArcherId": "289",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "567",
+    "ArcherId": "384",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "R",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "568",
+    "ArcherId": "414",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "569",
+    "ArcherId": "474",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "570",
+    "ArcherId": "347",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "571",
+    "ArcherId": "464",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "572",
+    "ArcherId": "27",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "573",
+    "ArcherId": "200",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "574",
+    "ArcherId": "179",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "575",
+    "ArcherId": "127",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "C",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 10:00:00"
+  },
+  {
+    "Id": "576",
+    "ArcherId": "92",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "B",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "577",
+    "ArcherId": "270",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "578",
+    "ArcherId": "361",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "R",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "579",
+    "ArcherId": "24",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "580",
+    "ArcherId": "81",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "581",
+    "ArcherId": "317",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "C",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "582",
+    "ArcherId": "473",
+    "CompetitionId": "2",
+    "RoundName": "Brisbane",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "583",
+    "ArcherId": "494",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "R",
+    "Class": "Under 21 Female",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "584",
+    "ArcherId": "413",
+    "CompetitionId": "2",
+    "RoundName": "Adelaide",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "585",
+    "ArcherId": "222",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "586",
+    "ArcherId": "377",
+    "CompetitionId": "2",
+    "RoundName": "Perth",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "587",
+    "ArcherId": "133",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "588",
+    "ArcherId": "301",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "589",
+    "ArcherId": "135",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "L",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "590",
+    "ArcherId": "106",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "R",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "591",
+    "ArcherId": "62",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "B",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "592",
+    "ArcherId": "300",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "L",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "593",
+    "ArcherId": "4",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "B",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "594",
+    "ArcherId": "7",
+    "CompetitionId": "2",
+    "RoundName": "Long Brisbane",
+    "Division": "R",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "595",
+    "ArcherId": "446",
+    "CompetitionId": "2",
+    "RoundName": "AA50/1440",
+    "Division": "C",
+    "Class": "Female Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "596",
+    "ArcherId": "429",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "C",
+    "Class": "50+ Male",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "597",
+    "ArcherId": "188",
+    "CompetitionId": "2",
+    "RoundName": "Hobart",
+    "Division": "R",
+    "Class": "50+ Female",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "598",
+    "ArcherId": "220",
+    "CompetitionId": "2",
+    "RoundName": "Sydney",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "599",
+    "ArcherId": "278",
+    "CompetitionId": "2",
+    "RoundName": "Long Sydney",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  },
+  {
+    "Id": "600",
+    "ArcherId": "80",
+    "CompetitionId": "2",
+    "RoundName": "AA40/1440",
+    "Division": "B",
+    "Class": "Male Open",
+    "SessionDate": "2024-06-20 16:00:00"
+  }
+]

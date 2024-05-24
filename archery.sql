@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS Arrow;
+DROP TABLE IF EXISTS End;
 DROP TABLE IF EXISTS ShootingSession;
 DROP TABLE IF EXISTS Archer;
 DROP TABLE IF EXISTS Competition;
@@ -66,7 +66,7 @@ CREATE TABLE SubRound (
 CREATE TABLE Competition (
 	Id INT	NOT NULL AUTO_INCREMENT,
 	IsChampionship BOOLEAN,
-	Name VARCHAR(255),
+	Name VARCHAR(255) UNIQUE,
 	Duration INT,
 	CompetitionDate TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 	PRIMARY KEY (Id)
@@ -87,12 +87,17 @@ CREATE TABLE ShootingSession (
 	FOREIGN KEY (RoundName) REFERENCES Round(Name)
 );
 
-CREATE TABLE Arrow (
+CREATE TABLE End (
 	Id INT NOT NULL AUTO_INCREMENT,
+	ShootingSessionId INT,
 	Dist INT,
 	ShootingRange INT,
-	ShootingSessionId INT,
-	Score INT,
+	Arrow1 INT,
+	Arrow2 INT,
+	Arrow3 INT,
+	Arrow4 INT,
+	Arrow5 INT,
+	Arrow6 INT,
 	ShootDate TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 	PRIMARY KEY (Id),
 	FOREIGN KEY (Dist) REFERENCES Distance(Dist),
@@ -135,7 +140,9 @@ INSERT INTO Division (Name, ACR) VALUES
 
 INSERT INTO ShootingRange (EndNo) VALUES
 (6),
-(5);
+(5),
+(3);
+
 INSERT INTO Round (Name, MaxScoreByArrow) VALUES
 ('WA90/1440', 10),
 ('WA70/1440', 10),
@@ -147,9 +154,11 @@ INSERT INTO Round (Name, MaxScoreByArrow) VALUES
 ('Long Brisbane', 10),
 ('Brisbane', 10),
 ('Adelaide', 10),
-('Short Adelaide', 10),
 ('Hobart', 10),
 ('Perth', 10);
+
+INSERT INTO Round (Name, MaxScoreByArrow, Equivalent) VALUES
+('WA60/1440 - Children', 10, 'WA60/1440');
 
 INSERT INTO TargetFace (Size) VALUES
 (120),
@@ -168,6 +177,8 @@ INSERT INTO SubRound (Dist, ShootingRange, RoundName, TargetFace) VALUES
 (50, 6, 'WA60/1440', 80),
 (40, 6, 'WA60/1440', 120),
 (30, 6, 'WA60/1440', 120),
+(40, 3, 'WA60/1440 - Children', 120),
+(30, 3, 'WA60/1440 - Children', 120),
 (50, 6, 'AA50/1440', 80),
 (40, 6, 'AA50/1440', 80),
 (30, 6, 'AA50/1440', 120),
@@ -205,5 +216,6 @@ INSERT INTO SubRound (Dist, ShootingRange, RoundName, TargetFace) VALUES
 
 INSERT INTO Competition (IsChampionship, Name, CompetitionDate) VALUES
 (TRUE, 'World Archery 2190', '2024-04-15'),
-(TRUE, 'Archery Australia Championship', '2024-06-20');
+(TRUE, 'Archery Australia Championship', '2024-06-20'),
+(FALSE, 'Staging', '2020-01-01');
 

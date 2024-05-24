@@ -11,6 +11,8 @@ INSERT INTO SubRound (Dist, ShootingRange, RoundName, TargetFace) VALUES
 (50, 6, 'WA60/1440', 80),
 (40, 6, 'WA60/1440', 120),
 (30, 6, 'WA60/1440', 120),
+(40, 3, 'WA60/1440 - Children', 120),
+(30, 3, 'WA60/1440 - Children', 120),
 (50, 6, 'AA50/1440', 80),
 (40, 6, 'AA50/1440', 80),
 (30, 6, 'AA50/1440', 120),
